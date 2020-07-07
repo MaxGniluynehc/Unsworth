@@ -3,7 +3,7 @@
 This Github repo contains the source code and some results of the data analysis of the Toronto Real Estate Market. Datasets are retrieved from sources as follows:     
 - [repliers REST API for Real Estate](https://docs.repliers.io/v1/listings/get-listings)       
 - [Realtor](http://realtor.ca)     
-- [TREBB data](http://35.228.31.175/)
+- [TREBB data]( http://35.228.31.175/tableu/listings)
 
 
 Please go to the following folders for details:             
